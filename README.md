@@ -16,7 +16,7 @@ A simple and interactive To-Do List web application built using **HTML, CSS, and
 - JavaScript
 
 ## Live Demo
-(Will be added after deployment)
+https://dnyx-task-1.vercel.app/
 
 ## Author
 VS ANISHWATH
